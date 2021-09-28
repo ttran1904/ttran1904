@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ttran1904
-- 👀 I’m interested in Machine Learning & Computer Vision
-- 🌱 I’m currently learning reinforcement learning.
+- 👋 Hi, I’m Emi Tran
+- 👀 I’m interested in Machine Learning & Computer Vision for self-driving.
+- 🌱 I’m currently learning RL.
 - 💞️ I’m looking to collaborate on any computer vision industrial or research project.
-- 📫 How to reach me emitran@berkeley.edu
+- 📫 How to reach me: emitran@berkeley.edu
 
 <!---
 ttran1904/ttran1904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
